@@ -404,6 +404,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://defang.io/favicon.png" height="14" /> [DefangLabs/defang](https://github.com/DefangLabs/defang) - CLI and MCP server for building and deploying Docker Compose-compatible projects to your own AWS, GCP, or DigitalOcean account.
 
 <br />
+- [FreeQrly](https://github.com/BryceBin/qrforge) - Free QR code generation MCP server on Cloudflare Workers: no-key `generate_qr` plus Bearer-token-authenticated dynamic code tools (create/list/update/delete/stats); live at `https://freeqrly.com/mcp`.
 
 ## 📊 <a name="data-visualization"></a>Data Visualization
 
